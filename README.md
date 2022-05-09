@@ -1,5 +1,5 @@
 
-### Hey there!
+<p style="text-align: center;">### Hey there!
 <div id="header" align="center">
   <img src="https://bestanimations.com/media/computers/1641871444funny-computer-animated-gif-35.gif"/>
 </div>
@@ -39,3 +39,4 @@ Thanks for checking out my page, please don't hesitate to connect with me on eit
    <a href="https://www.instagram.com/its_the_dewds_jewelry/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+                                                                                                                                   </p>
