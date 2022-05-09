@@ -1,8 +1,9 @@
-<center>### Hey there!</center>
-  
 <div id="header" align="center">
   <img src="https://bestanimations.com/media/computers/1641871444funny-computer-animated-gif-35.gif"/>
 </div>
+
+### Hey there!
+  
 My name's Eric and I'm a software engineer at the General Assembly bootcamp. I love working on new projects and I am really having fun while learning (I'm always learning)! 
 
 ~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~
