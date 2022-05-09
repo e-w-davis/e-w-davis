@@ -1,7 +1,7 @@
 
 ### Hey there!
 
-My name's Eric and I'm a software engineer at the General Assembly bootcamp. I love working on complex projects and I am really having fun while learning (I'm always learning)! 
+My name's Eric and I'm a software engineer at the General Assembly bootcamp. I love working on new projects and I am really having fun while learning (I'm always learning)! 
 
 ~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~
 
@@ -28,4 +28,12 @@ When I'm not behind my computer, I'm probably at my jewelry bench, creating uniq
 
 If you want to take a look at some of my jewelry, check out my work on instagram: @its_the_dEWDs_jewelry or visit my <a href="http://www.thedewd.com">personal website</a>.  
 
-Thanks for checking out my page. Please let me know if I can help you in anyway!
+Thanks for checking out my page, please don't hesitate to connect with me on either or both of the options below!
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/eric-davis-271690101/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="https://www.instagram.com/its_the_dewds_jewelry/">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
