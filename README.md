@@ -1,7 +1,7 @@
 
 ### Hey there!
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/l378bFG2RkMIAKDW8/giphy.gif?cid=ecf05e47c9xeyuzx224u6k35uxmbexed3svijyfiy82pzt0s&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media1.giphy.com/media/l378bFG2RkMIAKDW8/giphy.gif?cid=ecf05e47c9xeyuzx224u6k35uxmbexed3svijyfiy82pzt0s&rid=giphy.gif&ct=g" width="480"/>
 </div>
 My name's Eric and I'm a software engineer at the General Assembly bootcamp. I love working on new projects and I am really having fun while learning (I'm always learning)! 
 
