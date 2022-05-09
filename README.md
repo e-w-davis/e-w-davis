@@ -2,7 +2,9 @@
 ### Hey there!
 
 My name's Eric and I'm a software engineer at the General Assembly bootcamp. I love working on complex projects and I am really having fun while learning (I'm always learning)! 
+
 ~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~
+
 By the time I complete this course, I'll have experience with these skills and more:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -15,7 +17,9 @@ By the time I complete this course, I'll have experience with these skills and m
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~
+
 When I'm not behind my computer, I'm probably at my jewelry bench, creating unique jewelry for the business I've run on the side since 2015.  
 
 If you want to take a look at some of my jewelry, check out my work on instagram: @its_the_dEWDs_jewelry or visit my website 
