@@ -2,6 +2,7 @@
   <img src="https://bestanimations.com/media/computers/1641871444funny-computer-animated-gif-35.gif"/>
 </div>
 
+<div id="body" align="center">
 ### Hey there!
   
 My name's Eric and I'm a software engineer at the General Assembly bootcamp. I love working on new projects and I am really having fun while learning (I'm always learning)! 
@@ -9,7 +10,7 @@ My name's Eric and I'm a software engineer at the General Assembly bootcamp. I l
 ~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~
 
 By the time I complete this course, I'll have experience with these skills and more:
-<div>
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
