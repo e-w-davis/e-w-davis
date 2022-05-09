@@ -26,7 +26,7 @@ By the time I complete this course, I'll have experience with these skills and m
 
 When I'm not behind my computer, I'm probably at my jewelry bench, creating unique jewelry for the business I've run on the side since 2015.  
 
-If you want to take a look at some of my jewelry, check out my work on instagram: @its_the_dEWDs_jewelry or visit my <a href="http://www.thedewd.com">personal website</a>.  
+If you want to take a look at some of my jewelry, check out my work, visit my <a href="http://www.thedewd.com">personal website</a>.  
 
 Thanks for checking out my page, please don't hesitate to connect with me on either or both of the options below!
 
