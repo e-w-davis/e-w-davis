@@ -1,4 +1,4 @@
-<p style="text-align: center;">### Hey there!</p>
+<center>### Hey there!</center>
   
 <div id="header" align="center">
   <img src="https://bestanimations.com/media/computers/1641871444funny-computer-animated-gif-35.gif"/>
