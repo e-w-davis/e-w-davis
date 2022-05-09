@@ -1,6 +1,8 @@
 
 ### Hey there!
 
+<iframe src="https://giphy.com/embed/l378bFG2RkMIAKDW8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-pc-screen-l378bFG2RkMIAKDW8">via GIPHY</a></p>
+
 My name's Eric and I'm a software engineer at the General Assembly bootcamp. I love working on new projects and I am really having fun while learning (I'm always learning)! 
 
 ~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~
