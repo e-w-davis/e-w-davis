@@ -32,7 +32,7 @@ If you want to take a look at some of my jewelry, check out my work by visiting 
 Thanks for checking out my page, please don't hesitate to connect with me on either or both of the options below!
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/eric-davis-271690101/">
+  <a href="https://www.linkedin.com/in/ewdavis15/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://www.instagram.com/its_the_dewds_jewelry/">
