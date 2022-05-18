@@ -4,7 +4,7 @@
 <div id="meat and potatoes" align="center">
 Hey there!
   
-My name's Eric and I'm a software engineer at the General Assembly bootcamp. I love working on new projects and I am really having fun while learning (I'm always learning)! 
+I’m a software engineer with skills in HTML, CSS, JavaScript, JQuery, and Bootstrap and I am learning Python, React, and Django. I love working on complex projects that require critical thinking, and enjoy collaborating with others to break down complex problems into smaller attainable solutions. I thrive in an environment where individuals are cultivated and social impact is a priority.
 
 ~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~
 
@@ -24,8 +24,7 @@ By the time I complete this course, I'll have experience with these skills and m
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 
 ~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~
-
-When I'm not behind my computer, I'm probably at my jewelry bench, creating unique jewelry for the business I've run on the side since 2015.  
+When I'm not behind my computer, I'm probably at my jewelry bench, using my eye for design, pattern recognition, and patience to create unique art pieces.
 
 If you want to take a look at some of my jewelry, check out my work by visiting my <a href="http://www.thedewd.com">personal website</a>.  
 
