@@ -24,6 +24,7 @@ By the time I complete this course, I'll have experience with these skills and m
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 
 ~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~
+                                                                                                                                                
 When I'm not behind my computer, I'm probably at my jewelry bench, using my eye for design, pattern recognition, and patience to create unique art pieces.
 
 If you want to take a look at some of my jewelry, check out my work by visiting my <a href="http://www.thedewd.com">personal website</a>.  
