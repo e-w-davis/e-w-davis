@@ -4,6 +4,7 @@
 <div id="meat and potatoes" align="center">
 Hey there!
   
+  
 I’m a software engineer with skills in HTML, CSS, JavaScript, JQuery, Bootstrap, Mongoose, MongoDB, and React and I am learning Python and Django soon. I love working on complex projects that require critical thinking, and enjoy collaborating with others to break down complex problems into smaller attainable solutions. I thrive in an environment where individuals are cultivated and social impact is a priority.
 
 ~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~~~~*~*~*~~
